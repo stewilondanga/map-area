@@ -39,12 +39,13 @@ body {
   width: 90vw;
 }
 
-/*header.container__header {
+header.container__header {
   text-align: center;
   line-height: 2;
   margin: 2vh 0 0;
 }
-header.container__header h1 {
+
+/*header.container__header h1 {
   font-weight: 300;
   font-size: calc(2rem + 0.8vh);
 }
