@@ -90,7 +90,7 @@ section.container__step pre code {
   padding: 0.2rem 1rem;
 }
 
-/*section.container__step code {
+section.container__step code {
   font-family: 'Source Code Pro', monospace;
   background: #252525;
   color: #fff;
@@ -98,7 +98,8 @@ section.container__step pre code {
   border-radius: 12px;
   line-height: 1.4;
 }
-section.container__step ol,
+
+/*section.container__step ol,
 section.container__step ul {
   margin: 2vh 5vw;
 }
