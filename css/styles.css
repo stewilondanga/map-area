@@ -109,20 +109,20 @@ section.container__step ul li {
   line-height: 2;
 }
 
-/*section.container__step blockquote {
+section.container__step blockquote {
   display: inline-block;
   align-self: center;
   text-align: center;
   margin: 5vh 0;
   padding: 1rem 1.8rem;
-  background: rgba(37,37,37,0.1);
+  background: rgba(37, 37, 37, 0.1);
   font-style: italic;
   font-size: 1.5rem;
   border-radius: 10px;
   font-weight: 300;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
