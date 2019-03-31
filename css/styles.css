@@ -78,13 +78,14 @@ section.container__step p {
   line-height: 2;
 }
 
-/*section.container__step pre {
+section.container__step pre {
   display: flex;
   justify-content: center;
   margin: 5vh 0;
   width: 100%;
 }
-section.container__step pre code {
+
+/*section.container__step pre code {
   width: 100%;
   padding: 0.2rem 1rem;
 }
