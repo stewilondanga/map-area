@@ -73,11 +73,12 @@ section.container__step h2 {
   margin-bottom: 1rem;
 }
 
-/*section.container__step p {
+section.container__step p {
   font-size: 1.1rem;
   line-height: 2;
 }
-section.container__step pre {
+
+/*section.container__step pre {
   display: flex;
   justify-content: center;
   margin: 5vh 0;
