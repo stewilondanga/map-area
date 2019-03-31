@@ -85,11 +85,12 @@ section.container__step pre {
   width: 100%;
 }
 
-/*section.container__step pre code {
+section.container__step pre code {
   width: 100%;
   padding: 0.2rem 1rem;
 }
-section.container__step code {
+
+/*section.container__step code {
   font-family: 'Source Code Pro', monospace;
   background: #252525;
   color: #fff;
