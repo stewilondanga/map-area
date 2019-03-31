@@ -99,11 +99,12 @@ section.container__step code {
   line-height: 1.4;
 }
 
-/*section.container__step ol,
+section.container__step ol,
 section.container__step ul {
   margin: 2vh 5vw;
 }
-section.container__step ol li,
+
+/*section.container__step ol li,
 section.container__step ul li {
   line-height: 2;
 }
